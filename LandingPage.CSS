@@ -1,0 +1,564 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
+
+.Container{
+    
+    width: 100vw;
+    height: 69px;
+    display: flex;
+    background-image: linear-gradient(to right , orange , rgb(174 12 182));
+}
+.right{
+    width: 100vw;
+    height: 69px;
+    display: flex;
+    position: relative;
+    left: 180px;
+}
+.Button1{
+    width: 151px;
+    height: 41px;
+    font-size: 0.8rem;
+    margin-left: 322px;
+    background-color: rgb(174 12 182);
+    border-radius: 25px;
+    position: relative;
+    top: 15px;
+    left: -8px;
+    color: white;
+    font-family: auto;
+}
+.Container-2{
+    width: 100vw;
+    height: 69px;
+    display: flex;
+    text-align: center;
+    /* justify-content: center; */
+    background-color: rgb(217 215 215);
+}
+.LandingPage{
+    color: black;
+    font-size: 2.6rem;
+    margin-right: 256px;
+    font-family: fantasy;
+    position: relative;
+    top: 6px;
+    left: 180px;
+    cursor: pointer;
+}
+.landing-img{
+    position: relative;
+    left: 175px;
+    top: 9px;
+    color: white;
+    }
+.Home, .Blog, .Page, .Testumonials, .Contact, .Buy{
+    left: 4px;
+    color: black;
+    font-size: 1.0rem;
+    margin: 21px;
+    font-family: auto;
+    position: relative;
+    top: -4px;
+    cursor: pointer;
+}
+.Buy{
+    border-radius: 10px;
+    align-items: center;
+    width: 92px;
+    height: 35px;
+    background-color: yellow;
+    display: inline-flex;
+    justify-content: center;
+}
+.Searchable{
+    position: relative;
+    left: 62px;
+    top: 8px;
+    display: initial;
+    cursor: pointer;
+}
+.Media{
+    font-size: 1.0rem;
+    position: relative;
+    margin: 13px;
+    top: 17px;
+    left: -5px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+  
+}
+.Media2{
+    font-size: 1.0rem;
+    position: relative;
+    top: 17px;
+    left: -6px;
+    margin: 13px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+
+}
+.Number{
+    font-size: 0.9rem;
+    margin: 197px;
+    position: relative;
+    top: 17px;
+    left: -19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+.mail{
+    font-size: 0.9rem;
+    margin: -155px;
+    position: relative;
+    top: 17px;
+    left: -30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+.aligment-setting{
+position: relative;
+top: 10px;
+}
+
+.images{
+   position :relative;
+   width: 100vw;
+   height: 680px;
+    /* background-color: #789191; */
+    background-image: url(Digital\ creative\ agency01.jpg);
+}
+.line{
+    width: 10px;
+    height: 100px;
+    position: relative;
+    top: 17px;
+    color: white;
+    left: -2px;
+}
+.line1{
+    width: 10px;
+    height: 100px;
+    position: relative;
+    top: 17px;
+    left: -45px;
+    color: white;
+}
+.line2{
+    position: relative;
+    top: 17px;
+    left: -7px;
+    color: white;
+}
+.text1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: -424px;
+    top: 78px;
+    font-size: 1.4rem;
+    font-family: inherit;
+}
+.text2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: -154px;
+    top: 105px;
+    font-size: 1.9rem;
+    font-family: inherit;
+    color: white;
+}
+.text3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: -181px;
+    top: 132px;
+    color: white;
+    font-size: 1.0rem;
+    font-family: system-ui;
+}
+.button-2{
+    position: relative;
+    left: 221px;
+    top: 150px;
+    width: 105px;
+    height: 43px;
+    border-radius: 25px;
+    color: white;
+    background-image: linear-gradient(to right , orange , rgb(174 12 182));
+}
+.button-3{
+    position: relative;
+    left: 115px;
+    top: 75px;
+    width: 164px;
+    height: 43px;
+    border-radius: 25px;
+    color: white;
+    background-color: transparent;
+}
+.text-line{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: -552px;
+    top: 166px;
+    font-size: 242px;
+    height: 8px;
+    color: rgb(166 114 169);
+
+}
+.Container-4{
+    width: 100vw;
+    height: 120px;
+    display: flex;
+    background-image: linear-gradient(to right , orange , rgb(174 12 182));
+}
+.Launch-img{
+    position: relative;
+    top: 12px;
+    left: 181px;
+}
+.Launch-Business{
+    color: white;
+    font-size: 1.1rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 202px;
+    top: 25px;
+}
+.Launch-Business-text{
+    position: relative;
+    color: white;
+    top: 62px;
+    left: 3px;
+}
+.Online-img{
+    position: relative;
+    left: 219px;
+    top: 15px;
+    }
+.Online-support{
+    color: white;
+    font-size: 1.1rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top: 25px;
+    left: 233px;;
+}
+.Online-support-text{
+    position: relative;
+    color: white;
+    top: 62px;
+    left: 3px;
+}
+.Management-img{
+    position: relative;
+    color: white;
+    top: 14px;
+    left: 221px;
+}
+.Time-management{
+    color: white;
+    font-size: 1.1rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 235px;
+    top: 25px;
+}
+.Time-management-text{
+    position: relative;
+    color: white;
+    top: 62px;
+    left: 36px;
+}
+.About{
+    color: black;
+    font-size: 1.2rem;
+    margin-right: 120px;
+    font-family: inherit;
+    position: relative;
+    left: 180px;
+    top: 2px;
+}
+.Instruction{
+    color: black;
+    font-size: 1.2rem;
+    margin-right: 120px;
+    font-family: inherit;
+    position: relative;
+    top: 61px;
+    left: 180px;
+}
+.Container-5{
+    position: relative;
+    top: 104px;
+    font-size: 20px;
+}
+.right-Container{
+    position: relative;
+    left: 3px;
+    width: 754px;
+    height: 362px;
+}
+
+.left-Container{
+    float: right;
+    position: relative;
+    left: 135px;
+    top: -279px;
+    width: 648px;
+    height: 409px;
+}
+.para{
+    position: relative;
+    left: 178px;
+    top: 79px;
+    margin-right: 120px;
+}
+.set{
+    position: relative;
+    top: -90px;
+}
+button{
+    position: relative;
+    top: 132px;
+    left: 178px;
+    width: 100px;
+    height: 44px;
+    border-radius: 25px;
+    background-image: linear-gradient(to right , orange , rgb(174 12 182));
+    color: white;
+    cursor: pointer;
+}
+hr {
+    width: 282px;
+    height: 7px;
+    position: relative;
+    left: 185px;
+    top: 38px;
+    background-image: linear-gradient(to right , orange , rgb(174 12 182));
+    border-radius: 19px;
+   
+}
+.OUR-SERVICES{
+    color: black;
+    font-size: 1.2rem;
+    margin-right: 120px;
+    font-family: inherit;
+    position: relative;
+    left: 182px;
+    top: 24px;
+}
+.Digital-imgages{
+    display: flex;
+    position: relative;
+    left: 164px;
+    gap: 38px;
+    top: 68px;
+}
+
+.Digital-img1, .Digital-img2, .Digital-img3{
+ position: relative;
+ top: 30px;
+ left: 20px;
+}
+
+.USER-EXPERIENCE{
+    text-align: center;
+    position: relative;
+    top: 43px;
+    left: 398px;
+    font-size: 17px;
+    font-family: fantasy;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 12px;
+}
+.CREATIVE-DESIGN{
+    text-align: center;
+    position: relative;
+    top: 44px;
+    left: 646px;
+    font-size: 17px;
+    font-family: fantasy;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 12px;
+}
+.RETINA-READY{
+    text-align: center;
+    position: relative;
+    top: 45px;
+    left: 911px;
+    font-size: 17px;
+    font-family: fantasy;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 12px;
+}
+.background{
+    color: gray;
+    width: 100%;
+    font-size: 200px;
+}
+.Bottom{
+    position: relative;
+    top: -36px;
+    /* display: flex; */
+    left: -22px;
+    /* background-color: black; */
+    padding-left: 347px;
+    /* inline-size: 100%; */
+    text-align: center;
+   
+}
+.Container-6{
+    position: relative;
+    top: 164px;
+}
+.Bottom-data{
+    width: 100vw;
+    position: relative;
+    display: flex;
+    background-color: whitesmoke;
+    left: -345px;
+    top: -76px;
+    height: 66px;
+   
+}
+.Service{
+    cursor: pointer;
+}
+.Home1, .Blog1, .Page1, .Testumonials1, .Contact1{
+    left: 440px;
+    color: white;
+    font-size: 21px;
+    margin: 21px;
+    position: relative;
+    top: -16px;
+    font-family: sans-serif;
+    cursor: pointer;
+    margin: 36px;
+}
+.Bottom-data{
+    position: relative;
+    top: 24px;
+    background-color: black;
+    color: white;
+    height: 77px;
+    width: 101vw;
+}
+.Contact2{
+    display: flex;
+    position: relative;
+    top: 11px;
+    left: -4px;
+    background-color: #000000bd;
+    width: 100vw;
+    padding: 62px;
+    height: 268px;
+}
+.nametxt1{
+    width: 320px;
+    height: 40px;
+    position: relative;
+    top: -40px;
+    border: 1px solid;
+    text-align: start;
+    border-radius: 8px;
+    color: blanchedalmond;
+}
+.nametxt2{
+    width: 320px;
+    height: 40px;
+    position: relative;
+    top: -24px;
+    border: 1px solid;
+    text-align: start;
+    border-radius: 8px;
+    color: blanchedalmond;
+}
+.nametx3{
+    width: 320px;
+    height: 40px;
+    position: relative;
+    top: -6px;
+    border: 1px solid;
+    text-align: start;
+    border-radius: 8px;
+    color: blanchedalmond; 
+}
+.sendbtn{
+    position: relative;
+    top: 14px;
+    left: 97px;
+}
+.Right-contactdata{
+    position: relative;
+    left: 273px;
+}
+.Left-contactdata{
+    position: relative;
+    left: 520px;
+}
+.mail-id{
+    font-size: 20px;
+    position: relative;
+    left: 125px;
+    top: -31px;
+    color: white;
+}
+#contactdata10{
+    font-size: 46px;
+    position: relative;
+    left: 125px;
+    top: -54px;
+    color: white;
+}
+.number-data{
+    font-size: 20px;
+    position: relative;
+    left: 125px;
+    top: -19px;
+    color: white;
+    
+}
+.links-data{
+    font-size: 18px;
+    position: relative;
+    left: 125px;
+    top: -4px; 
+    color: white;
+}
+.btn-inst{
+    border-radius: 20px;
+    background-image: linear-gradient(45deg,  rgb(7, 7, 62), transparent);
+    /* background-color:  rgb(7, 7, 62); */
+    width: 42px;
+    height: 39px;
+    position: relative;
+    left: 20px;
+}
+.img-inst{
+    border-radius: 20px;
+    width: 34px;
+    height: 29px;
+    position: relative;
+    left: 1px;
+    top: 1px;
+}
+
